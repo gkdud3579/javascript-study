@@ -1,7 +1,6 @@
-function solution(arr){
-    var arr[0] = solution[0];
-    return arr;
+function solution(arr) {
+    return arr[0];
 }
 
-var result = solution([1,2,3,4,5])
-console.log(result)
+var result = solution([1, 2, 3, 4, 5]);
+console.log(result);
