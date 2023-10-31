@@ -1,5 +1,4 @@
 function solution(arr, queries) {
-    const n = arr.length;
     const answer = arr.slice();
 
     for (const query of queries) {
