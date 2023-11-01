@@ -64,17 +64,3 @@ function solution(a, b, c, d) {
     // 나머지 경우인 전부 다른 값일 때, 가장 작은 값을 리턴
     return minValue;
 }
-
-
-// function solution(a, b, c, d) {
-//     var answer = 0;
-//     if(a, b, c, d == p)
-//         answer = 1111 * p;
-//     else if((a, b, c == p && d == q(p!==q)) || (b, c, d == p && a == q(p!==q)) || (c, d, a == p && d == q(p!==q))
-//             answer = Math.pow(10 * p + q, 2);
-//     else if((a, b == p && (c == q && d == r(q!=r) || c ==(r(q!=r) && d == q)))|| (b, c == p && (d == q && a == r(q!=r) || d ==(r(q!=r) && a == q))) || (c, d == p && (a == q && b == r(q!=r) || a ==(r(q!=r) && b == q))) || (d, a == p && (b == q && c == r(q!=r) || b ==(r(q!=r) && c == q))))
-//         answer = q * r;
-//     else
-//         answer = Number.MIN_VALUE(a,b,c,d);
-//     return answer;
-// }
