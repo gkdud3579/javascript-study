@@ -1,3 +1,5 @@
+//문자열의 앞의 n글자
+
 function solution(my_string, n) {
     var answer = '';
     for(var i = 0; i < n; i++){
