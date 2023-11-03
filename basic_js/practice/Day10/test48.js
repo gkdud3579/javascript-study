@@ -1,3 +1,5 @@
+//문자열 뒤집기
+
 function solution(my_string, s, e) {
     var answer = '';
     my_string.slice;
