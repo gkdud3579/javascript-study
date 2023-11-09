@@ -1,3 +1,5 @@
+//문자 개수 세기
+
 function solution(my_string) {
     // 52개의 0으로 초기화된 배열 생성
     var answer = Array(52).fill(0);

@@ -1,3 +1,5 @@
+//배열만들기 1
+
 function solution(n, k) {
     var answer = [];
     for (var i = 1; i <= n; i++) {

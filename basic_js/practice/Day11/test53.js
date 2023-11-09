@@ -1,3 +1,5 @@
+//글자지우기 
+
 function solution(my_string, indices) {
     var answer = '';
     
