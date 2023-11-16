@@ -12,3 +12,5 @@ function solution(myString) {
     
     return answer.sort();
 }
+
+// const solution=s=>s.match(/[^x]+/g).sort()
