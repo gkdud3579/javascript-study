@@ -12,3 +12,6 @@ function solution(myString) {
     }
     return answer;
 }
+
+
+//const solution = myString => myString.replace(/[a-k]/g,'l')
