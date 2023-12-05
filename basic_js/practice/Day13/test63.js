@@ -1,3 +1,5 @@
+//왼쪽 오른쪽
+
 function solution(str_list) {
     var answer = [];
     for (var i = 0; i < str_list.length; i++) {
